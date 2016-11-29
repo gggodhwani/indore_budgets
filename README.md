@@ -5,6 +5,6 @@ Indore Municipal Corporation Budget
 
 ### Treemap
 
-![]()
+![](https://raw.githubusercontent.com/gggodhwani/indore_budgets/budget_0.1/img/indore_budgets.png)
 
 [View interactive treemap.](https://bl.ocks.org/gggodhwani/raw/ae0c538bb3f18b4826d228840cfad3a3/)
